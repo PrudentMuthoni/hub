@@ -1,0 +1,6 @@
+Laundry 
+Kitchen
+Store 
+Living room
+Bedroom 
+
