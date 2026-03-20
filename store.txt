@@ -4,3 +4,10 @@ Store
 Living room
 Bedroom 
 
+shirts
+dress
+Skirts
+Sweaters
+Trousers
+Shorts
+
